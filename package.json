@@ -1,0 +1,26 @@
+{
+  "name": "light-apple",
+  "version": "0.0.1",
+  "description": "LightApple ===========",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LightCircle/LightApple.git"
+  },
+  "keywords": [
+    "apn"
+  ],
+  "author": "r2space",
+  "license": "MTL",
+  "bugs": {
+    "url": "https://github.com/LightCircle/LightBridge/issues"
+  },
+  "homepage": "https://github.com/LightCircle/LightBridge",
+  "dependencies": {
+    "light-core": "0.0.1",
+    "apn": "1.6.2"
+  }
+}
