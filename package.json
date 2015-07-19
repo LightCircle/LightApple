@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/LightCircle/LightBridge",
   "dependencies": {
-    "light-core": "0.0.1",
+    "light-core": "git+http://git.alphabets.cn/root/LightCore.git",
     "apn": "1.6.2"
   }
 }
